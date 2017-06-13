@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GoogleLogIn</string>
+    <string name="hello_world">Hello World</string>
+
+    <string name="server_client_id">567910209688-gepi570rhn4a3h4njrbq9tsmv0ejlee9.apps.googleusercontent.com</string>
+</resources>

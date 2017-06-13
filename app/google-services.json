@@ -1,0 +1,103 @@
+{
+  "project_info": {
+    "project_number": "567910209688",
+    "project_id": "newlogin-169402"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567910209688:android:a3cbbb40af286941",
+        "android_client_info": {
+          "package_name": "com.llu17.youngq.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567910209688-1nl8vrsb20g8qjsqk7e66vjcu995kcmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.llu17.youngq.googlelogin",
+            "certificate_hash": "c42e77363d0c6baf1c245a08f1d25b2348dfe1e3"
+          }
+        },
+        {
+          "client_id": "567910209688-o5i93tuj5i8v6nrrf7u85pqqmbd7eu0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.llu17.youngq.googlelogin",
+            "certificate_hash": "1f62a8ead571e077059a53b2fcd25ffa3bdeaf35"
+          }
+        },
+        {
+          "client_id": "567910209688-kspeeqte9fuu30oko93ksg19ib63o5jp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "567910209688-b16o7io828q4g804gjirjevqlcjmcahn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.llu17.youngq.googlelogin",
+            "certificate_hash": "60ed5cedfebd2ed02e46649584d6564eb27cfddd"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPpeQg3abUx8tiUnGKhNYgsRUfZ5SeHNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567910209688:android:5b1e8cc9e60f81e1",
+        "android_client_info": {
+          "package_name": "com.llu17.youngq.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567910209688-kspeeqte9fuu30oko93ksg19ib63o5jp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "567910209688-9u6d0b9srivrcnrb9au6lsnda6bsnrq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.llu17.youngq.googlesignin",
+            "certificate_hash": "60ed5cedfebd2ed02e46649584d6564eb27cfddd"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPpeQg3abUx8tiUnGKhNYgsRUfZ5SeHNs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
